@@ -12,6 +12,7 @@ HTML, body {
 body {
   background: #dfe7ef;
   font-family: "Bitter", serif;
+  position: fixed;
 }
 
 .icon {

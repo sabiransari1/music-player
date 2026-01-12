@@ -1,46 +1,10 @@
-* {
-  box-sizing: border-box;
-}
-
 body {
   background: #dfe7ef;
   font-family: "Bitter", serif;
 }
 
-html, body {
-  height: 100%; /* Ensures body takes the full height of the viewport */
-  margin: 0;
-}
-
-.center-container {
-  display: flex;
-  justify-content: center; /* Centers horizontally */
-  align-items: center;     /* Centers vertically */
-  flex-direction: column;  /* Stacks content vertically if needed */
-  height: 100%;            /* Ensures container fills the body height */
-  text-align: center;      /* Ensures text within the container is centered */
-}
-
-
-/* For the entire page */
-html {
-  scrollbar-width: none; /* Firefox */
-  -ms-overflow-style: none; /* Internet Explorer and Edge */
-}
-
-/* For specific Webkit browsers (Chrome, Safari, Opera) */
-html::-webkit-scrollbar {
-  display: none;
-}
-
-/* Example for a specific div */
-.scrollable-content {
-  scrollbar-width: none; /* Firefox */
-  -ms-overflow-style: none; /* IE and Edge */
-}
-
-.scrollable-content::-webkit-scrollbar {
-  display: none; /* Chrome, Safari, Opera */
+* {
+  box-sizing: border-box;
 }
 
 .icon {

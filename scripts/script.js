@@ -71,7 +71,238 @@ new Vue({
           cover: "https://raw.githubusercontent.com/sabiransari1/music-player/main/img/9.jpg",
           source: "https://raw.githubusercontent.com/sabiransari1/music-player/main/music/background_music/batman_vs_superman/9.mp3",
           favorited: false
-        }
+        },
+        {
+          name: "A",
+          artist: "Sabir",
+          cover: "https://raw.githubusercontent.com/sabiransari1/music-player/main/img/10.jpg",
+          source: "https://raw.githubusercontent.com/sabiransari1/music-player/main/music/dialogues/A.mp3",
+          favorited: false
+        },
+        {
+          name: "B",
+          artist: "Sabir",
+          cover: "https://raw.githubusercontent.com/sabiransari1/music-player/main/img/11.jpg",
+          source: "https://raw.githubusercontent.com/sabiransari1/music-player/main/music/dialogues/B.mp3",
+          favorited: false
+        },
+        {
+          name: "Batman vs Superman Their War Here",
+          artist: "Sabir",
+          cover: "https://raw.githubusercontent.com/sabiransari1/music-player/main/img/12.jpg",
+          source: "https://raw.githubusercontent.com/sabiransari1/music-player/main/music/dialogues/Batman vs Superman Their War Here.mp3",
+          favorited: false
+        },
+        {
+          name: "Brain",
+          artist: "Sabir",
+          cover: "https://raw.githubusercontent.com/sabiransari1/music-player/main/img/13.jpg",
+          source: "https://raw.githubusercontent.com/sabiransari1/music-player/main/music/dialogues/Brain.mp3",
+          favorited: false
+        },
+        {
+          name: "Bruce Wayne",
+          artist: "Sabir",
+          cover: "https://raw.githubusercontent.com/sabiransari1/music-player/main/img/14.jpg",
+          source: "https://raw.githubusercontent.com/sabiransari1/music-player/main/music/dialogues/Bruce Wayne.mp3",
+          favorited: false
+        },
+        {
+          name: "C",
+          artist: "Sabir",
+          cover: "https://raw.githubusercontent.com/sabiransari1/music-player/main/img/15.jpg",
+          source: "https://raw.githubusercontent.com/sabiransari1/music-player/main/music/dialogues/C.mp3",
+          favorited: false
+        },
+        {
+          name: "D",
+          artist: "Sabir",
+          cover: "https://raw.githubusercontent.com/sabiransari1/music-player/main/img/16.jpg",
+          source: "https://raw.githubusercontent.com/sabiransari1/music-player/main/music/dialogues/D.mp3",
+          favorited: false
+        },
+        {
+          name: "Dream",
+          artist: "Sabir",
+          cover: "https://raw.githubusercontent.com/sabiransari1/music-player/main/img/17.jpg",
+          source: "https://raw.githubusercontent.com/sabiransari1/music-player/main/music/dialogues/Dream.mp3",
+          favorited: false
+        },
+        {
+          name: "Dream.",
+          artist: "Sabir",
+          cover: "https://raw.githubusercontent.com/sabiransari1/music-player/main/img/18.jpg",
+          source: "https://raw.githubusercontent.com/sabiransari1/music-player/main/music/dialogues/Dream..mp3",
+          favorited: false
+        },
+        {
+          name: "E",
+          artist: "Sabir",
+          cover: "https://raw.githubusercontent.com/sabiransari1/music-player/main/img/19.jpg",
+          source: "https://raw.githubusercontent.com/sabiransari1/music-player/main/music/dialogues/E.mp3",
+          favorited: false
+        },
+        {
+          name: "Enthusiastic",
+          artist: "Sabir",
+          cover: "https://raw.githubusercontent.com/sabiransari1/music-player/main/img/20.jpg",
+          source: "https://raw.githubusercontent.com/sabiransari1/music-player/main/music/dialogues/Enthusiastic.mp3",
+          favorited: false
+        },
+        {
+          name: "Evolution",
+          artist: "Sabir",
+          cover: "https://raw.githubusercontent.com/sabiransari1/music-player/main/img/21.jpg",
+          source: "https://raw.githubusercontent.com/sabiransari1/music-player/main/music/dialogues/Evolution.mp3",
+          favorited: false
+        },
+        {
+          name: "F",
+          artist: "Sabir",
+          cover: "https://raw.githubusercontent.com/sabiransari1/music-player/main/img/1.jpg",
+          source: "https://raw.githubusercontent.com/sabiransari1/music-player/main/music/dialogues/F.mp3",
+          favorited: false
+        },
+        {
+          name: "Freedom To Fail",
+          artist: "Sabir",
+          cover: "https://raw.githubusercontent.com/sabiransari1/music-player/main/img/2.jpg",
+          source: "https://raw.githubusercontent.com/sabiransari1/music-player/main/music/dialogues/Freedom To Fail.mp3",
+          favorited: false
+        },
+        {
+          name: "Harvey Dent",
+          artist: "Sabir",
+          cover: "https://raw.githubusercontent.com/sabiransari1/music-player/main/img/3.jpg",
+          source: "https://raw.githubusercontent.com/sabiransari1/music-player/main/music/dialogues/Harvey Dent.mp3",
+          favorited: false
+        },
+        {
+          name: "Joker",
+          artist: "Sabir",
+          cover: "https://raw.githubusercontent.com/sabiransari1/music-player/main/img/4.jpg",
+          source: "https://raw.githubusercontent.com/sabiransari1/music-player/main/music/dialogues/Joker.mp3",
+          favorited: false
+        },
+        {
+          name: "Joker.",
+          artist: "Sabir",
+          cover: "https://raw.githubusercontent.com/sabiransari1/music-player/main/img/5.jpg",
+          source: "https://raw.githubusercontent.com/sabiransari1/music-player/main/music/dialogues/Joker..mp3",
+          favorited: false
+        },
+        {
+          name: "Joker..",
+          artist: "Sabir",
+          cover: "https://raw.githubusercontent.com/sabiransari1/music-player/main/img/6.jpg",
+          source: "https://raw.githubusercontent.com/sabiransari1/music-player/main/music/dialogues/Joker...mp3",
+          favorited: false
+        },
+        {
+          name: "Joker...",
+          artist: "Sabir",
+          cover: "https://raw.githubusercontent.com/sabiransari1/music-player/main/img/7.jpg",
+          source: "https://raw.githubusercontent.com/sabiransari1/music-player/main/music/dialogues/Joker....mp3",
+          favorited: false
+        },
+        {
+          name: "Keep Your Commitments",
+          artist: "Sabir",
+          cover: "https://raw.githubusercontent.com/sabiransari1/music-player/main/img/8.jpg",
+          source: "https://raw.githubusercontent.com/sabiransari1/music-player/main/music/dialogues/Keep Your Commitments.mp3",
+          favorited: false
+        },
+        {
+          name: "Lex Luthor",
+          artist: "Sabir",
+          cover: "https://raw.githubusercontent.com/sabiransari1/music-player/main/img/9.jpg",
+          source: "https://raw.githubusercontent.com/sabiransari1/music-player/main/music/dialogues/Lex Luthor.mp3",
+          favorited: false
+        },
+        {
+          name: "Lex Luthor.",
+          artist: "Sabir",
+          cover: "https://raw.githubusercontent.com/sabiransari1/music-player/main/img/10.jpg",
+          source: "https://raw.githubusercontent.com/sabiransari1/music-player/main/music/dialogues/Lex Luthor..mp3",
+          favorited: false
+        },
+        {
+          name: "Lex Luthor..",
+          artist: "Sabir",
+          cover: "https://raw.githubusercontent.com/sabiransari1/music-player/main/img/11.jpg",
+          source: "https://raw.githubusercontent.com/sabiransari1/music-player/main/music/dialogues/Lex Luthor...mp3",
+          favorited: false
+        },
+        {
+          name: "Lex Luthor's",
+          artist: "Sabir",
+          cover: "https://raw.githubusercontent.com/sabiransari1/music-player/main/img/12.jpg",
+          source: "https://raw.githubusercontent.com/sabiransari1/music-player/main/music/dialogues/Lex Luthor's.mp3",
+          favorited: false
+        },
+        {
+          name: "Opportunities",
+          artist: "Sabir",
+          cover: "https://raw.githubusercontent.com/sabiransari1/music-player/main/img/13.jpg",
+          source: "https://raw.githubusercontent.com/sabiransari1/music-player/main/music/dialogues/Opportunities.mp3",
+          favorited: false
+        },
+        {
+          name: "Steve Rogers",
+          artist: "Sabir",
+          cover: "https://raw.githubusercontent.com/sabiransari1/music-player/main/img/14.jpg",
+          source: "https://raw.githubusercontent.com/sabiransari1/music-player/main/music/dialogues/Steve Rogers.mp3",
+          favorited: false
+        },
+        {
+          name: "Target",
+          artist: "Sabir",
+          cover: "https://raw.githubusercontent.com/sabiransari1/music-player/main/img/15.jpg",
+          source: "https://raw.githubusercontent.com/sabiransari1/music-player/main/music/dialogues/Target.mp3",
+          favorited: false
+        },
+        {
+          name: "Thones",
+          artist: "Sabir",
+          cover: "https://raw.githubusercontent.com/sabiransari1/music-player/main/img/16.jpg",
+          source: "https://raw.githubusercontent.com/sabiransari1/music-player/main/music/dialogues/Thones.mp3",
+          favorited: false
+        },
+        {
+          name: "Ultron",
+          artist: "Sabir",
+          cover: "https://raw.githubusercontent.com/sabiransari1/music-player/main/img/17.jpg",
+          source: "https://raw.githubusercontent.com/sabiransari1/music-player/main/music/dialogues/Ultron.mp3",
+          favorited: false
+        },
+        {
+          name: "Ultron.",
+          artist: "Sabir",
+          cover: "https://raw.githubusercontent.com/sabiransari1/music-player/main/img/18.jpg",
+          source: "https://raw.githubusercontent.com/sabiransari1/music-player/main/music/dialogues/Ultron..mp3",
+          favorited: false
+        },
+                {
+          name: "Ultron..",
+          artist: "Sabir",
+          cover: "https://raw.githubusercontent.com/sabiransari1/music-player/main/img/19.jpg",
+          source: "https://raw.githubusercontent.com/sabiransari1/music-player/main/music/dialogues/Ultron...mp3",
+          favorited: false
+        },
+        {
+          name: "Zindagi",
+          artist: "Sabir",
+          cover: "https://raw.githubusercontent.com/sabiransari1/music-player/main/img/20.jpg",
+          source: "https://raw.githubusercontent.com/sabiransari1/music-player/main/music/dialogues/Zindagi.mp3",
+          favorited: false
+        },
+        {
+          name: "Zola",
+          artist: "Sabir",
+          cover: "https://raw.githubusercontent.com/sabiransari1/music-player/main/img/21.jpg",
+          source: "https://raw.githubusercontent.com/sabiransari1/music-player/main/music/dialogues/Zola.mp3",
+          favorited: false
+        },
       ],
       currentTrack: null,
       currentTrackIndex: 0,

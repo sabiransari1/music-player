@@ -143,16 +143,9 @@ new Vue({
           favorited: false
         },
         {
-          name: "Enthusiastic",
-          artist: "Sabir",
-          cover: "https://raw.githubusercontent.com/sabiransari1/music-player/main/img/20.jpg",
-          source: "https://raw.githubusercontent.com/sabiransari1/music-player/main/music/dialogues/Enthusiastic.mp3",
-          favorited: false
-        },
-        {
           name: "Evolution",
           artist: "Sabir",
-          cover: "https://raw.githubusercontent.com/sabiransari1/music-player/main/img/21.jpg",
+          cover: "https://raw.githubusercontent.com/sabiransari1/music-player/main/img/20.jpg",
           source: "https://raw.githubusercontent.com/sabiransari1/music-player/main/music/dialogues/Evolution.mp3",
           favorited: false
         },

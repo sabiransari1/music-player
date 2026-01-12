@@ -10,66 +10,66 @@ new Vue({
       isTimerPlaying: false,
       tracks: [
         {
-          name: "Mekanın Sahibi",
-          artist: "Norm Ender",
-          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/1.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/1.mp3",
+          name: "1",
+          artist: "Sabir",
+          cover: "https://raw.githubusercontent.com/sabiransari1/music-player/main/img/1.jpg",
+          source: "https://raw.githubusercontent.com/sabiransari1/music-player/main/music/background_music/batman_vs_superman/1.mp3",
           favorited: false
         },
         {
-          name: "Everybody Knows",
-          artist: "Leonard Cohen",
-          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/2.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/2.mp3",
+          name: "2",
+          artist: "Sabir",
+          cover: "https://raw.githubusercontent.com/sabiransari1/music-player/main/img/2.jpg",
+          source: "https://raw.githubusercontent.com/sabiransari1/music-player/main/music/background_music/batman_vs_superman/2.mp3",
           favorited: false
         },
         {
-          name: "Extreme Ways",
-          artist: "Moby",
-          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/3.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/3.mp3",
+          name: "3",
+          artist: "Sabir",
+          cover: "https://raw.githubusercontent.com/sabiransari1/music-player/main/img/3.jpg",
+          source: "https://raw.githubusercontent.com/sabiransari1/music-player/main/music/background_music/batman_vs_superman/3.mp3",
           favorited: false
         },
         {
-          name: "Butterflies",
-          artist: "Sia",
-          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/4.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/4.mp3",
+          name: "4",
+          artist: "Sabir",
+          cover: "https://raw.githubusercontent.com/sabiransari1/music-player/main/img/4.jpg",
+          source: "https://raw.githubusercontent.com/sabiransari1/music-player/main/music/background_music/batman_vs_superman/4.mp3",
           favorited: false
         },
         {
-          name: "The Final Victory",
-          artist: "Haggard",
-          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/5.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/5.mp3",
+          name: "5",
+          artist: "Sabir",
+          cover: "https://raw.githubusercontent.com/sabiransari1/music-player/main/img/5.jpg",
+          source: "https://raw.githubusercontent.com/sabiransari1/music-player/main/music/background_music/batman_vs_superman/5.mp3",
           favorited: false
         },
         {
-          name: "Genius ft. Sia, Diplo, Labrinth",
-          artist: "LSD",
-          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/6.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/6.mp3",
+          name: "6",
+          artist: "Sabir",
+          cover: "https://raw.githubusercontent.com/sabiransari1/music-player/main/img/6.jpg",
+          source: "https://raw.githubusercontent.com/sabiransari1/music-player/main/music/background_music/batman_vs_superman/6.mp3",
           favorited: false
         },
         {
-          name: "The Comeback Kid",
-          artist: "Lindi Ortega",
-          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/7.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/7.mp3",
+          name: "7",
+          artist: "Sabir",
+          cover: "https://raw.githubusercontent.com/sabiransari1/music-player/main/img/7.jpg",
+          source: "https://raw.githubusercontent.com/sabiransari1/music-player/main/music/background_music/batman_vs_superman/7.mp3",
           favorited: false
         },
         {
-          name: "Overdose",
-          artist: "Grandson",
-          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/8.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/8.mp3",
+          name: "8",
+          artist: "Sabir",
+          cover: "https://raw.githubusercontent.com/sabiransari1/music-player/main/img/8.jpg",
+          source: "https://raw.githubusercontent.com/sabiransari1/music-player/main/music/background_music/batman_vs_superman/8.mp3",
           favorited: false
         },
         {
-          name: "Rag'n'Bone Man",
-          artist: "Human",
-          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/9.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/9.mp3",
+          name: "9",
+          artist: "Sabir",
+          cover: "https://raw.githubusercontent.com/sabiransari1/music-player/main/img/9.jpg",
+          source: "https://raw.githubusercontent.com/sabiransari1/music-player/main/music/background_music/batman_vs_superman/9.mp3",
           favorited: false
         }
       ],
